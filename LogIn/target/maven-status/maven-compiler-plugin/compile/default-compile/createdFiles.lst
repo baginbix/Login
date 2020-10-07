@@ -1,0 +1,6 @@
+nu\tim\login\JAXRSConfiguration.class
+nu\tim\login\resources\JavaEE8Resource.class
+nu\tim\login\entity\Credentials.class
+nu\tim\login\beans\CredentialsBean.class
+nu\tim\login\ConnectionFactory.class
+nu\tim\login\resources\CredentialsResource.class
